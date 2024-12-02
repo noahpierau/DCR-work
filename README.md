@@ -1,5 +1,5 @@
 # Articles
-This repository contains a collection of some of my writings.
+This repository contains a collection of some of my DCR writings.
 
 It is risk to host articles on [Medium](https://noahpierau.medium.com/) since it is a centralized platform. 
 
